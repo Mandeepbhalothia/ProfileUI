@@ -61,6 +61,7 @@ public class MainActivity extends AppCompatActivity implements ImageAdapter.Item
         cameraBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                // permission is required for video displaying and playing also
                 checkStoragePermission();
             }
         });
