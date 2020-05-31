@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProfileUI</string>
+    <string name="item1">Item1</string>
+    <string name="hastag">#HasTag</string>
+    <string name="image">image</string>
+    <string name="new_text">NEW</string>
+
+    <string-array name="names">
+        <item> Ankita </item>
+        <item> Mandeep </item>
+        <item> Sandeep </item>
+        <item> Randeep </item>
+    </string-array>
+
+</resources>
